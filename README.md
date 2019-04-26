@@ -5,6 +5,8 @@
 Temario practico creado con fines didacticos para aprender GO. 
 Author:[Alexandr Campos --GitHub](https://github.com/alexandr28?tab=repositories)
 
+![Golang](https://cdn-images-1.medium.com/max/2400/1*30aoNxlSnaYrLhBT0O1lzw.png)
+
 ## Primera Clase GO
 
 ### Variables
