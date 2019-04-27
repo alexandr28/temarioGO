@@ -4,8 +4,7 @@ import "fmt"
 
 func main() {
 	/*
-			Arrays
-			Todos los valores son del mismo tipo de dato
+			Arrays ->todos los valores son del mismo tipo de dato
 			tamaño fijo
 
 		var nombres [3]string
