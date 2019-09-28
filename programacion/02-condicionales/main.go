@@ -9,6 +9,12 @@ func main() {
 	}
 	fmt.Println("fin del ciclo")
 
+	// condicionales logicas: &&, ||, !not
+	if !(5 < 10 || 1 > 7) {
+		fmt.Println("Es verdadero")
+	} else {
+		fmt.Println("es falso")
+	}
 	// condicionales anidadas
 
 	if edad, nombre := 17, "Alexandr"; edad < 14 {

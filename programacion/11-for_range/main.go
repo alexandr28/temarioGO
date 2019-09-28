@@ -18,6 +18,7 @@ func main() {
 			fmt.Println(string(letra))
 		}
 	*/
+	// con el _ (guion bajo) estamos ignorando un valor u omitir el valor mas no el indice
 	for _, entero := range []int{15, 16, 17, 18, 19, 20} {
 		fmt.Println(entero)
 	}

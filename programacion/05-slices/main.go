@@ -19,8 +19,14 @@ func main() {
 	fmt.Println(nombres)
 	fmt.Printf("su tamaño es: %d y su capacidad es: %d\n", len(nombres), cap(nombres))
 
+	// con make permite construir slice dando 3 valores
+	//make(tipo de dato, tamaño inicial, capacidad inicial(opcional))
 	alumnos := make([]string, 0)
 	alumnos = append(alumnos, "Jose")
 	alumnos = append(alumnos, "Felipe")
 	fmt.Println(alumnos)
+
+	// haciendo slice sin inicializar y de forma rapida
+	names := []string{"Alexandr", "Mariluz", "Andrea", "Ana Claudia"}
+	fmt.Println(names)
 }
